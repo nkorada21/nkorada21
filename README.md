@@ -1,5 +1,3 @@
-## Hi there 👋
-<!-- Premium Professional GitHub README -->
 
 <h1 align="center">👋 Hi, I'm <strong>Narendra Korada</strong></h1>
 <h3 align="center">Software Engineer (Backend) | Java • Spring Boot • APIs • AI Integrations</h3>
