@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm <strong>Narendra Korada</strong></h1>
-<h3 align="center">Software Engineer (Backend) | Java • Spring Boot • APIs • AI Integrations</h3>
+<h3 align="center">Software Engineer | Java • Spring Boot • APIs • AI Integrations</h3>
 
 <p align="center">
   <em>A results-driven developer focused on building scalable backend systems and real-world, production-ready solutions.</em>
@@ -18,8 +18,7 @@ Currently building portfolio-grade applications while preparing for high-impact 
 ## 🚀 What I'm Working On
 - Designing a premium **Java Spring Boot + AI** project for my portfolio  
 - Deepening expertise in Java, backend architecture, microservices & DSA  
-- Building API-first workflows, automation, authentication, and cloud skills  
-- Preparing for **FAANG-level interviews** and system design fundamentals  
+- Building API-first workflows, automation, authentication, and cloud skills   
 
 ---
 
