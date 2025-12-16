@@ -46,9 +46,6 @@ Currently building portfolio-grade applications while preparing for high-impact 
 ---
 
 ## 📈 GitHub Highlights
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkorada21&theme=nightowl" alt="Streak Stats" />
-</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nkorada21&show_icons=true&theme=nightowl" />
