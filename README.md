@@ -55,8 +55,7 @@ Currently building portfolio-grade applications while preparing for high-impact 
 ---
 
 ## 📬 Connect With Me
-📧 Email: **(narendrakorada.21@gmail.com)**  
-🔗 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/narendra-korada-2a3034185/)**  
+📧 Email: **(narendrakorada.21@gmail.com)**
 🌐 Portfolio: *Coming Soon*  
 
 ---
